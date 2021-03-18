@@ -1,0 +1,14 @@
+{
+  "coverage": "0%",
+  "expectCount": 1,
+  "actualCount": 0,
+  "files": {
+    "js/store.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        165
+      ]
+    }
+  }
+}

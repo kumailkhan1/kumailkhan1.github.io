@@ -1,0 +1,9 @@
+{
+    "source": "./js",
+    "destination": "./docs",
+    "plugins": [
+      {gi
+        "name": "esdoc-standard-plugin"
+      }
+    ]
+  }
